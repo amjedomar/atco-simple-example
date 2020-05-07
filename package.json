@@ -1,0 +1,25 @@
+{
+  "name": "atco-simple-example",
+  "version": "0.0.0",
+  "description": "A simple example for the usage of Atco",
+  "private": true,
+  "author": "Amjed Omar <amjedomar201@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "12.16.3",
+    "yarn": "1.22.4"
+  },
+  "scripts": {
+    "start:dev": "atco -w --exec \" node ./dist/index.js\"",
+    "heroku-postbuild": "atco"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/node": "^13.13.5",
+    "atco": "^1.0.11",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
