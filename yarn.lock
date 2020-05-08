@@ -98,10 +98,10 @@ array-flatten@1.1.1:
   resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-1.1.1.tgz#9a5f699051b1e7073328f2a008968b64ea2955d2"
   integrity sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
 
-atco@^1.0.11:
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/atco/-/atco-1.0.11.tgz#0b791bdb6619016b82e87e4763e5787170a20581"
-  integrity sha512-TJVp5ENdqqmJCgcDTjX9JetP+CcJxDZKB0r34ueT7Az9NKk92eJz73rBzrCZA2Gj51YFTdrOKeJ5SGMrqhJ3hg==
+atco@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/atco/-/atco-1.0.12.tgz#415a82c672389d21b7bfc0d6145837b15318dc2a"
+  integrity sha512-wcLU47boJI+K4R3/U6OkYb6aIZzgi1wN+kbkwmk8j1eXlfhDP7LJaQnkCmOG9GG+8iXTUnZh50okSt/UOtg0Bg==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.0"
