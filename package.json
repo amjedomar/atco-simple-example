@@ -6,8 +6,8 @@
   "author": "Amjed Omar <amjedomar201@gmail.com>",
   "license": "MIT",
   "engines": {
-    "node": "12.16.3",
-    "yarn": "1.22.4"
+    "node": "14.15.4",
+    "yarn": "1.22.5"
   },
   "scripts": {
     "start:dev": "atco -w --exec \" node ./dist/index.js\"",
@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/express": "^4.17.6",
     "@types/node": "^13.13.5",
-    "atco": "^1.0.12",
+    "atco": "^1.0.13",
     "typescript": "^3.8.3"
   },
   "dependencies": {
